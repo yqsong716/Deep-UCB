@@ -10,11 +10,11 @@ From the perspective of the deep reinforcement learning algorithm, the training 
 -	Utility Software：Pycharm.
 ## Operating Instructions
 Before running the system, PyCharm, Pytorch, Gym, and other necessary Python libraries need to be installed in advance.  
-1.Double-click the PyCharm icon to start the program, as shown in Figure 1. The PyCharm program after startup is shown in Figure 2.  
-![Figure](https://images2015.cnblogs.com/blog/855959/201704/855959-20170411085213876-1710178644.png)
-2. Copy the file Confidence Interval Based Intensive Learning System V1.0 into any .py file, click File->Open in the PyCharm interface, and open the .Py file, as shown in Figure 3.  
-3. Right-click, and then click the Run (File Name) button to run the system, as shown in Figure 4.  
-4. The system works as shown in Figure 5.  
+1.Double-click the PyCharm icon to start the program, as shown in Fig. 1. The PyCharm program after startup is shown in Fig. 2.  
+![Fig. 1](https://images2015.cnblogs.com/blog/855959/201704/855959-20170411085213876-1710178644.png)  
+2. Copy the file Confidence Interval Based Intensive Learning System V1.0 into any .py file, click File->Open in the PyCharm interface, and open the `.Py` file, as shown in Fig. 3.  
+3. Right-click, and then click the Run (File Name) button to run the system, as shown in Fig. 4.  
+4. The system works as shown in Fig. 5.  
 5. The illustration is Pong, an reinforcement learning environment in the gym library. You can choose another environment for training or use a locally built intensive learning environment.
 ## Acknowledgments
 This work was supported by the National Natural Science Foundation of China (Grant No. 62073245), the Natural Science Foundation of Shanghai (20ZR1440500), and Pudong New Area Science & Technology Development Fund (PKX2021-R07).
