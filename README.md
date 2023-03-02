@@ -1,2 +1,3 @@
 # Deep-UCB
-A Novel Action Decision Method of Deep Reinforcement Learning Based on a Neural Network and Confidence Bound
+This repository contains the codes for our paper, which is in submission.
+# Abstract
