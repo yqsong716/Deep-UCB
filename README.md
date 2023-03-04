@@ -29,6 +29,6 @@ Fig.4 click run
 ![Fig. 5](http://m.qpic.cn/psc?/V53neGfw0ENEHq0q2Pmx1BHrnF3fYzyV/bqQfVz5yrrGYSXMvKr.cqQVKsW9oYeDT9q.ofNeCmIgGMxRP*cpmrX35AeF4ylgySLUy2J.5CGsPEKCORXD0FA6IOXNkQZEVsTCNJ8vlumU!/b&bo=ewf8AwAAAAADF7E!&rf=viewer_4)  
 Fig.5 system running  
   
-5. The illustration is Pong, an reinforcement learning environment in the gym library. You can choose another environment for training or use a locally built intensive learning environment.
+5. The illustration is Pong, an reinforcement learning environment in the gym library. You can choose other environment for training, or build a local intensive learning environment.
 ## Acknowledgments
 This work was supported by the National Natural Science Foundation of China (Grant No. 62073245), the Natural Science Foundation of Shanghai (20ZR1440500), and Pudong New Area Science & Technology Development Fund (PKX2021-R07).
